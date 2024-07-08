@@ -48,9 +48,10 @@
             this.lbTenant = new System.Windows.Forms.Label();
             this.lbDeedid_newcontract = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.lbTenantregistry = new System.Windows.Forms.Label();
-            this.panel4 = new System.Windows.Forms.Panel();
             this.lbAssetregistry = new System.Windows.Forms.Label();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.lbNewcontract = new System.Windows.Forms.Label();
+            this.lbTenantregistry = new System.Windows.Forms.Label();
             this.panLicense = new System.Windows.Forms.Panel();
             this.panLeaseend = new System.Windows.Forms.Panel();
             this.panLatency = new System.Windows.Forms.Panel();
@@ -62,7 +63,6 @@
             this.lbLeaseend = new System.Windows.Forms.Label();
             this.lbLatency = new System.Windows.Forms.Label();
             this.lbCollection = new System.Windows.Forms.Label();
-            this.lbNewcontract = new System.Windows.Forms.Label();
             this.panTopbar = new System.Windows.Forms.Panel();
             this.picProfile = new System.Windows.Forms.PictureBox();
             this.panOptions = new System.Windows.Forms.Panel();
@@ -298,26 +298,6 @@
             this.panel1.Size = new System.Drawing.Size(200, 539);
             this.panel1.TabIndex = 49;
             // 
-            // lbTenantregistry
-            // 
-            this.lbTenantregistry.AutoSize = true;
-            this.lbTenantregistry.Font = new System.Drawing.Font("Franklin Gothic Medium", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbTenantregistry.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(132)))), ((int)(((byte)(47)))));
-            this.lbTenantregistry.Location = new System.Drawing.Point(16, 19);
-            this.lbTenantregistry.Name = "lbTenantregistry";
-            this.lbTenantregistry.Size = new System.Drawing.Size(110, 24);
-            this.lbTenantregistry.TabIndex = 0;
-            this.lbTenantregistry.Text = "Kiracı kayıdı";
-            // 
-            // panel4
-            // 
-            this.panel4.BackColor = System.Drawing.SystemColors.WindowText;
-            this.panel4.Controls.Add(this.lbNewcontract);
-            this.panel4.Location = new System.Drawing.Point(7, 117);
-            this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(190, 29);
-            this.panel4.TabIndex = 4;
-            // 
             // lbAssetregistry
             // 
             this.lbAssetregistry.AutoSize = true;
@@ -328,6 +308,37 @@
             this.lbAssetregistry.Size = new System.Drawing.Size(103, 24);
             this.lbAssetregistry.TabIndex = 0;
             this.lbAssetregistry.Text = "Mülk kayıdı";
+            // 
+            // panel4
+            // 
+            this.panel4.BackColor = System.Drawing.SystemColors.WindowText;
+            this.panel4.Controls.Add(this.lbNewcontract);
+            this.panel4.Location = new System.Drawing.Point(7, 117);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(190, 29);
+            this.panel4.TabIndex = 4;
+            // 
+            // lbNewcontract
+            // 
+            this.lbNewcontract.AutoSize = true;
+            this.lbNewcontract.Font = new System.Drawing.Font("Franklin Gothic Medium", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbNewcontract.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(132)))), ((int)(((byte)(47)))));
+            this.lbNewcontract.Location = new System.Drawing.Point(9, 5);
+            this.lbNewcontract.Name = "lbNewcontract";
+            this.lbNewcontract.Size = new System.Drawing.Size(108, 24);
+            this.lbNewcontract.TabIndex = 0;
+            this.lbNewcontract.Text = "Yeni kontrat";
+            // 
+            // lbTenantregistry
+            // 
+            this.lbTenantregistry.AutoSize = true;
+            this.lbTenantregistry.Font = new System.Drawing.Font("Franklin Gothic Medium", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbTenantregistry.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(132)))), ((int)(((byte)(47)))));
+            this.lbTenantregistry.Location = new System.Drawing.Point(16, 19);
+            this.lbTenantregistry.Name = "lbTenantregistry";
+            this.lbTenantregistry.Size = new System.Drawing.Size(110, 24);
+            this.lbTenantregistry.TabIndex = 0;
+            this.lbTenantregistry.Text = "Kiracı kayıdı";
             // 
             // panLicense
             // 
@@ -428,17 +439,6 @@
             this.lbCollection.Size = new System.Drawing.Size(74, 24);
             this.lbCollection.TabIndex = 0;
             this.lbCollection.Text = "Tahsilat";
-            // 
-            // lbNewcontract
-            // 
-            this.lbNewcontract.AutoSize = true;
-            this.lbNewcontract.Font = new System.Drawing.Font("Franklin Gothic Medium", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbNewcontract.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(132)))), ((int)(((byte)(47)))));
-            this.lbNewcontract.Location = new System.Drawing.Point(9, 5);
-            this.lbNewcontract.Name = "lbNewcontract";
-            this.lbNewcontract.Size = new System.Drawing.Size(108, 24);
-            this.lbNewcontract.TabIndex = 0;
-            this.lbNewcontract.Text = "Yeni kontrat";
             // 
             // panTopbar
             // 

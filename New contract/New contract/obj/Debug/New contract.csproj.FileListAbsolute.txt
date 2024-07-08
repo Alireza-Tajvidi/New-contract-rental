@@ -1,0 +1,10 @@
+C:\Users\parsa\Desktop\Morya\New Contract\New contract\New contract\bin\Debug\New contract.exe.config
+C:\Users\parsa\Desktop\Morya\New Contract\New contract\New contract\bin\Debug\New contract.exe
+C:\Users\parsa\Desktop\Morya\New Contract\New contract\New contract\bin\Debug\New contract.pdb
+C:\Users\parsa\Desktop\Morya\New Contract\New contract\New contract\obj\Debug\New contract.csproj.AssemblyReference.cache
+C:\Users\parsa\Desktop\Morya\New Contract\New contract\New contract\obj\Debug\New_contract.Form1.resources
+C:\Users\parsa\Desktop\Morya\New Contract\New contract\New contract\obj\Debug\New_contract.Properties.Resources.resources
+C:\Users\parsa\Desktop\Morya\New Contract\New contract\New contract\obj\Debug\New contract.csproj.GenerateResource.cache
+C:\Users\parsa\Desktop\Morya\New Contract\New contract\New contract\obj\Debug\New contract.csproj.CoreCompileInputs.cache
+C:\Users\parsa\Desktop\Morya\New Contract\New contract\New contract\obj\Debug\New contract.exe
+C:\Users\parsa\Desktop\Morya\New Contract\New contract\New contract\obj\Debug\New contract.pdb
